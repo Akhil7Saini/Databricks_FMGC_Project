@@ -140,6 +140,4 @@ Update this table to match the exact column names in your own tables.
 
 ## Author
 
-**Akhil**, Computer Science graduate (B.E. CSE, 2025) with working knowledge of Python, SQL and Spark, and an interest in reliable ETL and data-quality checks.
-
-Feel free to open an issue or reach out with feedback.
+**Akhil**
